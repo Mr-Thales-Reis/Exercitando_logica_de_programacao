@@ -40,3 +40,12 @@ for (let c = 1; c <= 50; c++) {
 }
 
 console.log("Quantidade de números não divisíveis por 5:", contador);
+
+
+let soma = 0;
+
+for (let i = 1; i <= 10; i++) {
+    soma += i;
+}
+
+console.log("A soma é: " + soma);
